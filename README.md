@@ -27,3 +27,25 @@
 ### Foundations Checkpoint
 
 ## 🐛 Junior Phase
+
+### Data Structures
+
+#### Lectures
+- [Stacks and Queues - Lecture](https://youtu.be/GCaqg5eJbHs)
+- [Linked Lists - Lecture](https://youtu.be/IbhiXLa4Kn4)
+- [Binary Search Trees - Lecture](https://youtu.be/Iu-UC9PpB0A)
+
+#### Homework (Required Viewing)
+- [Linked Lists - Review](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti)
+- [Binary Search Trees - Review](https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B)
+- [Hash Tables - Lecture](https://youtu.be/_ly0_BpLJdk)
+
+#### Additional Resources
+
+| Resource/Task | Estimated or Recommended Time | Priority | Intended Takeaway
+| --- | --- | --- | --- |
+[Stacks and Queues](https://www.youtube.com/watch?v=6QS_Cup1YoI) | 5 minutes | High | Stacks are LIFO and have `push` and `pop` methods. Queues are FIFO and have `enqueue` and `dequeue` methods
+[Linked Lists](https://www.youtube.com/watch?v=LOHBGyK3Hbs) | 6-8 minutes | High | What is the overall structure of a Linked List? How is it laid out in memory? How do you think you would chain together two `nodes` in Javascript? How about more than 2 nodes?
+[Binary Search Trees](https://www.youtube.com/watch?v=D5SrAga1pno) | 15 minutes | High | Exposure to high-level concepts
+[Hash Tables](https://www.youtube.com/watch?v=h2d9b_nEzoA) | 10 minutes | High | A fairly broad overview
+[Fundamentals Explained](https://www.interviewcake.com/article/python/data-structures-coding-interview) | 30-45 minutes | Med-High | A broad overview of memory fundamentals and how they underpin data structures.
