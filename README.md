@@ -58,3 +58,8 @@
 - [HTML & CSS](https://youtu.be/dIYUWpMWEUU)
 - [Intro to Boxing](https://youtu.be/KQRSyRDHy58)
 - [Flexbox](https://youtu.be/ljo4ls0LNXw)
+
+
+#### Homework (Required Viewing)
+
+- [Landing Page Liftoff Review Video](https://www.youtube.com/watch?v=yTH1Wdl_ep8&feature=youtu.be)
