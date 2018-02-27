@@ -34,6 +34,7 @@
 - [Stacks and Queues - Lecture](https://youtu.be/GCaqg5eJbHs)
 - [Linked Lists - Lecture](https://youtu.be/IbhiXLa4Kn4)
 - [Binary Search Trees - Lecture](https://youtu.be/Iu-UC9PpB0A)
+- [Morning Review](https://youtu.be/xubviPlVN0s)
 
 #### Homework (Required Viewing)
 - [Linked Lists - Review](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti)
