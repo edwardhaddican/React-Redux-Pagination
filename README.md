@@ -49,3 +49,11 @@
 [Binary Search Trees](https://www.youtube.com/watch?v=D5SrAga1pno) | 15 minutes | High | Exposure to high-level concepts
 [Hash Tables](https://www.youtube.com/watch?v=h2d9b_nEzoA) | 10 minutes | High | A fairly broad overview
 [Fundamentals Explained](https://www.interviewcake.com/article/python/data-structures-coding-interview) | 30-45 minutes | Med-High | A broad overview of memory fundamentals and how they underpin data structures.
+
+
+### CSS
+
+#### Lectures
+- [HTML & CSS](https://youtu.be/dIYUWpMWEUU)
+- [Intro to Boxing](https://youtu.be/KQRSyRDHy58)
+- [Flexbox](https://youtu.be/ljo4ls0LNXw)
