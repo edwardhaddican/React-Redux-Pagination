@@ -69,10 +69,15 @@
 - [Pair Programming](https://youtu.be/_i2UfJH6vEg)
 - [Git Part I](https://youtu.be/jvBdZwmmf2M)
 - [Git Part II](https://youtu.be/RuRX7JGNA6o)
+- [Practical Debugging Part I](https://youtu.be/jIs5hN4rDGE)
+- [Practical Debugging Part II](https://youtu.be/ME9GNAhPA3c)
+
 
 #### Resources
 - [Git Configuration Gist](https://gist.github.com/cassiozen/340b664c6b0c4b01d17dd15f835344e4)
 - [Git Interactive Exercise](http://git.fullstackacademy.com/)
 
+#### Homework (Required Reading)
 
+- [Debugging JavaScript Applications](https://gist.github.com/glebec/8a0d06e54a4b3f95a33392f948e97b6a)
 
