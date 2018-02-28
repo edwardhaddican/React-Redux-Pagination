@@ -59,6 +59,17 @@
 - [Intro to Boxing](https://youtu.be/KQRSyRDHy58)
 - [Flexbox](https://youtu.be/ljo4ls0LNXw)
 
+## Collaboration
+
+#### Lectures
+- [Pair Programming](https://youtu.be/_i2UfJH6vEg)
+- [Git Part I](https://youtu.be/jvBdZwmmf2M)
+- [Git Part II](https://youtu.be/RuRX7JGNA6o)
+
+#### Resources
+- [Git Configuration Gist](https://gist.github.com/cassiozen/340b664c6b0c4b01d17dd15f835344e4)
+- [Git Interactive Exercise](http://git.fullstackacademy.com/)
+
 
 #### Homework (Required Viewing)
 
