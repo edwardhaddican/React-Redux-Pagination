@@ -79,5 +79,5 @@
 
 #### Homework (Required Reading)
 
-- [Debugging JavaScript Applications](https://gist.github.com/glebec/8a0d06e54a4b3f95a33392f948e97b6a)
+- [Debugging JavaScript Applications](https://gist.github.com/cassiozen/3ed8fde70fdf992e2dc910251a6f69f5) - Expands on today's lecture with additional information and insights.
 
