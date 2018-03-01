@@ -59,7 +59,25 @@
 - [Intro to Boxing](https://youtu.be/KQRSyRDHy58)
 - [Flexbox](https://youtu.be/ljo4ls0LNXw)
 
-
 #### Homework (Required Viewing)
 
 - [Landing Page Liftoff Review Video](https://www.youtube.com/watch?v=yTH1Wdl_ep8&feature=youtu.be)
+
+## Collaboration
+
+#### Lectures
+- [Pair Programming](https://youtu.be/_i2UfJH6vEg)
+- [Git Part I](https://youtu.be/jvBdZwmmf2M)
+- [Git Part II](https://youtu.be/RuRX7JGNA6o)
+- [Practical Debugging Part I](https://youtu.be/jIs5hN4rDGE)
+- [Practical Debugging Part II](https://youtu.be/ME9GNAhPA3c)
+
+
+#### Resources
+- [Git Configuration Gist](https://gist.github.com/cassiozen/340b664c6b0c4b01d17dd15f835344e4)
+- [Git Interactive Exercise](http://git.fullstackacademy.com/)
+
+#### Homework (Required Reading)
+
+- [Debugging JavaScript Applications](/01-junior/03-Collaboration/JavascriptDebugging.md) - Expands on today's lecture with additional information and insights.
+
