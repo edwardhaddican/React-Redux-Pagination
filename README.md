@@ -79,5 +79,5 @@
 
 #### Homework (Required Reading)
 
-- [Debugging JavaScript Applications](https://gist.github.com/cassiozen/3ed8fde70fdf992e2dc910251a6f69f5) - Expands on today's lecture with additional information and insights.
+- [Debugging JavaScript Applications](/01-junior/03-Collaboration-JavascriptDebugging.md) - Expands on today's lecture with additional information and insights.
 
