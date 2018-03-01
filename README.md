@@ -63,7 +63,7 @@
 
 - [Landing Page Liftoff Review Video](https://www.youtube.com/watch?v=yTH1Wdl_ep8&feature=youtu.be)
 
-## Collaboration
+### Collaboration
 
 #### Lectures
 - [Pair Programming](https://youtu.be/_i2UfJH6vEg)
@@ -78,6 +78,13 @@
 - [Git Interactive Exercise](http://git.fullstackacademy.com/)
 
 #### Homework (Required Reading)
-
 - [Debugging JavaScript Applications](/01-junior/03-Collaboration/JavascriptDebugging.md) - Expands on today's lecture with additional information and insights.
 
+### The DOM
+
+#### Lectures
+- [Intro to the DOM](https://youtu.be/JvqZHBnHMIM)
+- [Event Listeners and Handlers](https://youtu.be/nrcgex5EIHY)
+
+#### Homework (Required Viewing)
+- [Pixelate Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
