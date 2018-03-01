@@ -79,5 +79,5 @@
 
 #### Homework (Required Reading)
 
-- [Debugging JavaScript Applications](/01-junior/03-Collaboration-JavascriptDebugging.md) - Expands on today's lecture with additional information and insights.
+- [Debugging JavaScript Applications](/01-junior/03-Collaboration/JavascriptDebugging.md) - Expands on today's lecture with additional information and insights.
 
