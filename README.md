@@ -89,3 +89,9 @@
 
 #### Homework (Required Viewing)
 - [Pixelate Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
+
+
+### Pair Project
+
+- [Lecture (Comming soon)]()
+- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC&disable_polymer=true) 
