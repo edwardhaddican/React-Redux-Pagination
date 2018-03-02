@@ -1,0 +1,24 @@
+.draggable-item {
+  max-width: 100px;
+  cursor: move;
+  position: absolute;
+  z-index: 1;
+}
+
+.shifted {
+  filter: invert(100%);
+}
+
+.in-the-zone {
+  outline: 3px dashed blue;
+}
+
+#drop-zone {
+  width: 50vw;
+  height: 50vh;
+  position: fixed;
+  top: 25vh;
+  left: 25vw;
+  background-color: #fcc;
+  z-index: 0;
+}
