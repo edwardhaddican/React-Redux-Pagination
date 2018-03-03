@@ -85,6 +85,13 @@
 #### Lectures
 - [Intro to the DOM](https://youtu.be/JvqZHBnHMIM)
 - [Event Listeners and Handlers](https://youtu.be/nrcgex5EIHY)
+- [Morning Review](https://youtu.be/i6jslAT08kI)
 
 #### Homework (Required Viewing)
 - [Pixelate Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-)
+
+
+### Pair Project - Game of Life
+
+- [Lecture (Comming soon)]()
+- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC&disable_polymer=true) 
