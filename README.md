@@ -112,3 +112,7 @@
 - [Visualgo](https://visualgo.net/en)
 - [Time Complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
 - [Logarithms](https://www.interviewcake.com/article/python/logarithms)
+
+### HTTP, Client-Server Architecture
+- [HTTP Protocol](https://youtu.be/m-JrBXI9kGE)
+- [APIs and JSON Data](https://youtu.be/wEizJCv9rcA)
