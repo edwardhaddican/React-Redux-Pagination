@@ -102,3 +102,13 @@
 - [Algorithms and Analysis](https://youtu.be/TMPp1Laosfg)
 - [Bubble Sort](https://youtu.be/BfKdjvAuHoE)
 - [Merge Sort](https://youtu.be/jyW5IOvQN2A)
+
+#### Homework (Required Reading)
+- [Review Video](https://www.youtube.com/watch?v=Dz0NkaBp-FM)
+
+#### Additional Resources
+- [Bubble Sort](https://www.youtube.com/watch?v=aXXWXz5rF64)
+- [Merge Sort](https://www.youtube.com/watch?v=es2T6KY45cA)
+- [Visualgo](https://visualgo.net/en)
+- [Time Complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
+- [Logarithms](https://www.interviewcake.com/article/python/logarithms)
