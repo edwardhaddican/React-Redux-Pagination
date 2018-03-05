@@ -94,10 +94,11 @@
 ### Pair Project - Game of Life
 
 - [Lecture (Comming soon)]()
-- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC&disable_polymer=true) 
+- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC&disable_polymer=true)
 
 ### Algorithms and Sorting
 
 - [Morning Review/Preview](https://youtu.be/dUWzzWTKePU)
 - [Algorithms and Analysis](https://youtu.be/TMPp1Laosfg)
 - [Bubble Sort](https://youtu.be/BfKdjvAuHoE)
+- [Merge Sort](https://youtu.be/jyW5IOvQN2A)
