@@ -116,3 +116,7 @@
 ### HTTP, Client-Server Architecture
 - [HTTP Protocol](https://youtu.be/m-JrBXI9kGE)
 - [APIs and JSON Data](https://youtu.be/wEizJCv9rcA)
+
+### Node
+- [Lecture: Intro to Node](https://youtu.be/RKjlMDpkBz4)
+- [Lecture: Node & Async](https://youtu.be/nR-z8Pibf_w)
