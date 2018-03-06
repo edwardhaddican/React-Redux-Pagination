@@ -118,5 +118,6 @@
 - [APIs and JSON Data](https://youtu.be/wEizJCv9rcA)
 
 ### Node
+- [Morning Review (Testing Spies)](https://youtu.be/tStWghfhkvE)
 - [Lecture: Intro to Node](https://youtu.be/RKjlMDpkBz4)
 - [Lecture: Node & Async](https://youtu.be/nR-z8Pibf_w)
