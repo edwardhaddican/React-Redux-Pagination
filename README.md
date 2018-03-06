@@ -94,4 +94,25 @@
 ### Pair Project - Game of Life
 
 - [Lecture (Comming soon)]()
-- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC&disable_polymer=true) 
+- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC&disable_polymer=true)
+
+### Algorithms and Sorting
+
+- [Morning Review/Preview](https://youtu.be/dUWzzWTKePU)
+- [Algorithms and Analysis](https://youtu.be/TMPp1Laosfg)
+- [Bubble Sort](https://youtu.be/BfKdjvAuHoE)
+- [Merge Sort](https://youtu.be/jyW5IOvQN2A)
+
+#### Homework (Required Reading)
+- [Review Video](https://www.youtube.com/watch?v=Dz0NkaBp-FM)
+
+#### Additional Resources
+- [Bubble Sort](https://www.youtube.com/watch?v=aXXWXz5rF64)
+- [Merge Sort](https://www.youtube.com/watch?v=es2T6KY45cA)
+- [Visualgo](https://visualgo.net/en)
+- [Time Complexity](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity)
+- [Logarithms](https://www.interviewcake.com/article/python/logarithms)
+
+### HTTP, Client-Server Architecture
+- [HTTP Protocol](https://youtu.be/m-JrBXI9kGE)
+- [APIs and JSON Data](https://youtu.be/wEizJCv9rcA)
