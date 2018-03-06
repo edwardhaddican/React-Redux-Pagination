@@ -119,5 +119,10 @@
 
 ### Node
 - [Morning Review (Testing Spies)](https://youtu.be/tStWghfhkvE)
-- [Lecture: Intro to Node](https://youtu.be/RKjlMDpkBz4)
-- [Lecture: Node & Async](https://youtu.be/nR-z8Pibf_w)
+
+Unfortunately we had some audio problems with today's lectures. I'll re-record them and post here asap.
+
+#### Homework (Required Viewing)
+- [Review Video](https://www.youtube.com/watch?v=UZ5MO-5a2yI)
+
+
