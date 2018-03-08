@@ -60,7 +60,6 @@
 - [Flexbox](https://youtu.be/ljo4ls0LNXw)
 
 #### Homework (Required Viewing)
-
 - [Landing Page Liftoff Review Video](https://www.youtube.com/watch?v=yTH1Wdl_ep8&feature=youtu.be)
 
 ### Collaboration
@@ -131,3 +130,4 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
+
