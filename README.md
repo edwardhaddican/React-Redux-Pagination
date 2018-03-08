@@ -125,4 +125,6 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Homework (Required Viewing)
 - [Review Video](https://www.youtube.com/watch?v=UZ5MO-5a2yI)
 
-
+### Databases and SQL
+- [SQL](https://youtu.be/HGlbPEw1rDM)
+- [Schema Design](https://youtu.be/WGBaPxQtItI)
