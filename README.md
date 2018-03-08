@@ -128,6 +128,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [SQL](https://youtu.be/HGlbPEw1rDM)
 - [Schema Design](https://youtu.be/WGBaPxQtItI)
 
+### Async/Await
+- [Lecture](https://youtu.be/FUqyjIi8vzE)
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
