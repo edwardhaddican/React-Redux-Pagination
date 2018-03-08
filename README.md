@@ -128,3 +128,6 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Databases and SQL
 - [SQL](https://youtu.be/HGlbPEw1rDM)
 - [Schema Design](https://youtu.be/WGBaPxQtItI)
+
+### Other Presentations
+- [Alumni Panel](https://youtu.be/4n66yqA0rE4)
