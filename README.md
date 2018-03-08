@@ -128,14 +128,19 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [SQL](https://youtu.be/HGlbPEw1rDM)
 - [Schema Design](https://youtu.be/WGBaPxQtItI)
 
-### Async/Await
+### Database Drivers & Asynchronicity
+
+#### Async/Await
 - [Lecture](https://youtu.be/FUqyjIi8vzE)
 
-### Node-Postgress (pg)
+#### Node-Postgress (pg)
 - [Lecture](https://youtu.be/jAgp40V66j4)
 
-### Express Routes & Rest
+#### Express Routes & Rest
 - [Lecture](https://youtu.be/jVGYqyq-Ssc)
+
+#### Homework (Required Viewing)
+- [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgJpqVuKpzG7bOOOUvE9UJMy&disable_polymer=true)
 
 
 ### Other Presentations
