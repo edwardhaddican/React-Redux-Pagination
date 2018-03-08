@@ -134,6 +134,10 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Node-Postgress (pg)
 - [Lecture](https://youtu.be/jAgp40V66j4)
 
+### Express Routes & Rest
+- [Lecture](https://youtu.be/jVGYqyq-Ssc)
+
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
