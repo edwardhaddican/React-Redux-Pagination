@@ -147,6 +147,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [Sequelize and ORMs](https://youtu.be/jVboI6xhgc8)
+- [Weekly Review (Cody's Clubhouse)](https://youtu.be/A3TXFPfwaYc)
 
 #### Homework
 - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8)
