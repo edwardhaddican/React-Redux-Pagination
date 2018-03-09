@@ -143,6 +143,14 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Review Video](https://www.youtube.com/playlist?list=PLtjHqI8ZTRgJpqVuKpzG7bOOOUvE9UJMy&disable_polymer=true)
 
 
+### Sequelize
+
+#### Lectures
+- [Sequelize and ORMs](https://youtu.be/jVboI6xhgc8)
+
+#### Homework
+- [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8)
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
