@@ -280,3 +280,30 @@ You all have seen some class methods (in sequelize):
 // real life examaple of class method
 Comment.findAll({where: {postedAt: Date.now()}});
 ```
+
+## Indexing
+
+Indexing helps us optimize our queries! Specifically it can make repeated queries MUCH faster.
+
+An index in a database is just like index at the back of a textbook.
+
+- The index allows us to find useful information QUICKLY
+- It stores "values" (e.g. some text that appears in the textbook. like the word `Charles Law`) as "keys" (e.g. when we go the index, we look thing up such as `Charles Law`)
+- It stores "indexes" (e.g. the page numbers) as "values" (as in the page numbers correspond to the kye)
+- Our index is itself something we have to build, maintain, and persist
+
+It's a kind of "reverse lookup table".
+
+We can setup indexes in various ways:
+
+- Hashing index: a hash table where the keys are columns values of some kind and values are ids
+- Sorted index (more common in the wild): often stored as a search tree
+
+Indexes are really cool! Do have some downsides...
+
+- Maintenance time increases for write operations, any row we create / update / delete we also (may) need to affect a change in any / all of our index tables
+- Additional space needed for each index table
+- DBMS developer perspective: indexes are copmlicated to utilize / create / develop / code (not true from the perspective of a DBMS user)
+- Not ideal for "non-diverse" data (where many columns have the same value)
+
+Indexing is a very powerful idea! This separates "beginner" database admins from "intermediate" database admins.
