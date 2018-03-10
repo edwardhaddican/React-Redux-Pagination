@@ -8,7 +8,7 @@ class FQL {
   // get is the only thing that executes query
   get () {
     const rows = [];
-    const ids = this._table.getRowIds();
+    const ids = this._plan.handleIndexingAndReturnInitialIds(this._table);
     for (const id of ids) {
       if (!this._plan.withinLimit(rows)) break;
       const row = this._table.read(id);

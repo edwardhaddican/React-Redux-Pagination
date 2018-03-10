@@ -56,6 +56,43 @@ class Plan {
       return cond === row[column];
     });
   }
+  splitCriteria (table) {
+    const indexedCriteria = {};
+    const nonIndexedCriteria = {};
+    if (!this.hasOwnProperty('_criteria')) return undefined;
+    for (const column of Object.keys(this._criteria)) {
+      if (table.hasIndexTable(column)) {
+        indexedCriteria[column] = this._criteria[column];
+      } else {
+        nonIndexedCriteria[column] = this._criteria[column];
+      }
+    }
+    // indexedCriteria = {year: 1999};
+    // nonIndexedCriteria = {};
+    return {
+      nonIndexedCriteria,
+      indexedCriteria
+    };
+  }
+  handleIndexingAndReturnInitialIds (table) {
+    const theSplit = this.splitCriteria(table);
+    if (theSplit === undefined) return table.getRowIds();
+    const {indexedCriteria, nonIndexedCriteria} = theSplit;
+    // useful for `matchesRow`
+    this._criteria = nonIndexedCriteria;
+    if (Object.keys(indexedCriteria).length === 0) {
+      // no indexing, return all table row ids
+      return table.getRowIds();
+    } else {
+      for (const column in indexedCriteria) {
+        // find the indexed ids
+        const indexTable = table.getIndexTable(column);
+        const indexTableKey = indexedCriteria[column];
+        const indexedIds = indexTable[indexTableKey];
+        return indexedIds;
+      }
+    }
+  }
 }
 
 module.exports = Plan;

@@ -87,6 +87,7 @@ class Table {
   constructor (folderPath) {
     // _ here is naming convention to signify "internal" data
     this._folderPath = folderPath;
+    this._allIndexTables = {};
   }
   static toFilename (id) {
     const filename = id + '.json';
@@ -110,6 +111,25 @@ class Table {
     // point-free notation / tacit programming
     const ids = filenames.map(Table.toId);
     return ids;
+  }
+  addIndexTable (column) {
+    const indexTable = {};
+    for (const id of this.getRowIds()) {
+      const row = this.read(id);
+      const indexTableKey = row[column];
+      if (!indexTable[indexTableKey]) {
+        indexTable[indexTableKey] = [id];
+      } else {
+        indexTable[indexTableKey].push(id);
+      }
+    }
+    this._allIndexTables[column] = indexTable;
+  }
+  hasIndexTable (column) {
+    return this._allIndexTables.hasOwnProperty(column);
+  }
+  getIndexTable (column) {
+    return this._allIndexTables[column];
   }
 }
 
