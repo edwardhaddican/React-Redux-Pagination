@@ -11,6 +11,19 @@
 - [📖 Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 - [📖 MVC vs Redux (Flux)](https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html)
 
+## CS Saturday
+
+<details><summary>Click Here</summary>
+
+### FQL (Functional Query Language)
+
+* [📺 Lecture: Intro](https://youtu.be/zoS6WHQv9ro)
+* [📺 Review: Parts I and II](https://youtu.be/hrKEaEZDZWs)
+* [📺 Lecture: Indexing](https://youtu.be/AN5IzX7F1s0)
+* [📺 Review: Part III](https://youtu.be/hhCxZM-EJ4s)
+
+</details>
+
 ## 🥚 Foundations
 
 ### Fullstack Test First Solution Videos
