@@ -174,6 +174,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Event Emitters](https://youtu.be/t2E7l2GXfw4)
 - [Promise Structure](https://youtu.be/bPHTgi8RMJI)
 
+#### Homework (Required Viewing)
+- [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4)
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
