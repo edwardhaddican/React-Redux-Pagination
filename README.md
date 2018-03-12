@@ -167,6 +167,11 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Homework
 - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8)
 
+### Promises
+
+#### Lectures
+- [Event Emitters](https://youtu.be/t2E7l2GXfw4)
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
