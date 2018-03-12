@@ -171,6 +171,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [Event Emitters](https://youtu.be/t2E7l2GXfw4)
+- [Promise Structure](https://youtu.be/bPHTgi8RMJI)
 
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
