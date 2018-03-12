@@ -173,6 +173,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Lectures
 - [Event Emitters](https://youtu.be/t2E7l2GXfw4)
 - [Promise Structure](https://youtu.be/bPHTgi8RMJI)
+- [Promise Wrap Up](https://youtu.be/GbgaLeG-pJQ)
 
 #### Homework (Required Viewing)
 - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4)
