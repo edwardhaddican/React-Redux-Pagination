@@ -178,6 +178,11 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Homework (Required Viewing)
 - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4)
 
+### Trip Planner
+
+#### Homework (Required Viewing)
+- [Review Video](https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be)
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
