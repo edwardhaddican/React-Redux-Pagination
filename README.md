@@ -172,11 +172,18 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [Event Emitters](https://youtu.be/t2E7l2GXfw4)
+- [Promise Mechanics pt. 1](https://youtu.be/GXzzWeigrZ4)
+- [Promise Mechanics pt. 2](https://youtu.be/z6D5yJiI2SA)
 - [Promise Structure](https://youtu.be/bPHTgi8RMJI)
 - [Promise Wrap Up](https://youtu.be/GbgaLeG-pJQ)
 
 #### Homework (Required Viewing)
 - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4)
+
+### Express & Sequelize Rounding Out
+
+#### Lecture
+- [Express & Sequelize Rounding Out](https://youtu.be/xBloojW7hQQ)
 
 ### Trip Planner
 
