@@ -10,6 +10,7 @@
 - [📖 Gist: Book Recommendations](https://gist.github.com/glebec/c8139b51feb86005504810b8f58a696c)
 - [📖 Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 - [📖 MVC vs Redux (Flux)](https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html)
+- [📖 Gist: Intro to Express](https://gist.github.com/tmkelly28/e00d4e4b8d38b9605706e107741a11e6)
 
 ## CS Saturday
 
@@ -166,6 +167,16 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Homework
 - [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8)
+
+### Promises
+
+#### Lectures
+- [Event Emitters](https://youtu.be/t2E7l2GXfw4)
+- [Promise Structure](https://youtu.be/bPHTgi8RMJI)
+- [Promise Wrap Up](https://youtu.be/GbgaLeG-pJQ)
+
+#### Homework (Required Viewing)
+- [Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4)
 
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
