@@ -187,6 +187,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### Trip Planner
 
+#### Lectures
+- [Part II: SPAs and AJAX](https://youtu.be/Kb_JTeQDQiM)
+
 #### Homework (Required Viewing)
 - [Review Video](https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be)
 
