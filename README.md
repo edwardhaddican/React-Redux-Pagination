@@ -191,7 +191,8 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Part II: SPAs and AJAX](https://youtu.be/Kb_JTeQDQiM)
 
 #### Homework (Required Viewing)
-- [Review Video](https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be)
+- [Review Video Part I](https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be)
+- [Review Video Part II](https://www.youtube.com/watch?v=rw5nJ2czncs&feature=youtu.be)
 
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
