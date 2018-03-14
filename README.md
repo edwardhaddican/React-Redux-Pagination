@@ -187,8 +187,24 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### Trip Planner
 
+#### Lectures
+- [Part II: SPAs and AJAX](https://youtu.be/Kb_JTeQDQiM)
+
 #### Homework (Required Viewing)
-- [Review Video](https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be)
+- [Review Video Part I](https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be)
+- [Review Video Part II](https://www.youtube.com/watch?v=rw5nJ2czncs&feature=youtu.be)
+
+### React
+
+#### Homework (Required Reading)
+- https://reactjs.org/docs/hello-world.html
+- https://reactjs.org/docs/introducing-jsx.html
+- https://reactjs.org/docs/rendering-elements.html
+- https://reactjs.org/docs/components-and-props.html
+- https://reactjs.org/docs/state-and-lifecycle.html
+- https://reactjs.org/docs/handling-events.html
+- https://reactjs.org/docs/conditional-rendering.html
+- https://reactjs.org/docs/lists-and-keys.html
 
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
