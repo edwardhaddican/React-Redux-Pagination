@@ -204,6 +204,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Fullstack Data Flow]()
 
 #### Homework (Required Reading)
+- [Cody's Quiz](https://github.com/FullstackAcademy/codys-quiz)
 - [React and JSX (Review Video)](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlkkod59nXwkN4iB04beamn)
 - https://reactjs.org/docs/hello-world.html
 - https://reactjs.org/docs/introducing-jsx.html
