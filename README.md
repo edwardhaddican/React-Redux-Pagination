@@ -196,7 +196,15 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### React
 
+#### Lectures
+- [ES Modules](https://youtu.be/xGgrjYRzVts)
+- [Intro to React](https://youtu.be/oKQCNVETjks)
+- [State and Props](https://youtu.be/IbDsajzgx-Q)
+- [Lifecycle and Collections](https://youtu.be/qLmLh53LsXA)
+- [Fullstack Data Flow]()
+
 #### Homework (Required Reading)
+- [React and JSX (Review Video)](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlkkod59nXwkN4iB04beamn)
 - https://reactjs.org/docs/hello-world.html
 - https://reactjs.org/docs/introducing-jsx.html
 - https://reactjs.org/docs/rendering-elements.html
@@ -205,6 +213,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - https://reactjs.org/docs/handling-events.html
 - https://reactjs.org/docs/conditional-rendering.html
 - https://reactjs.org/docs/lists-and-keys.html
+
+#### Additional Resources
+- [React Starter Code](https://github.com/tmkelly28/simple-react-starter)
 
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
