@@ -201,7 +201,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Intro to React](https://youtu.be/oKQCNVETjks)
 - [State and Props](https://youtu.be/IbDsajzgx-Q)
 - [Lifecycle and Collections](https://youtu.be/qLmLh53LsXA)
-- [Fullstack Data Flow]()
+- [Fullstack Data Flow](https://youtu.be/vSBqGre4cmg)
 
 #### Homework (Required Reading)
 - [Cody's Quiz](https://github.com/FullstackAcademy/codys-quiz)
