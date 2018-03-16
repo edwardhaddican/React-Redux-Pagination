@@ -202,6 +202,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [State and Props](https://youtu.be/IbDsajzgx-Q)
 - [Lifecycle and Collections](https://youtu.be/qLmLh53LsXA)
 - [Fullstack Data Flow](https://youtu.be/vSBqGre4cmg)
+- [Morning Review 3/16](https://youtu.be/p6dDNEJ7F7k)
 
 #### Homework (Required Reading)
 - [Cody's Quiz](https://github.com/FullstackAcademy/codys-quiz)
