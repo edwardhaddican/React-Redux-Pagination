@@ -227,3 +227,17 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Morning Review 3/19](https://youtu.be/XIR31mEOXQA)
 - [Hackathon Kickoff](https://youtu.be/xsZ3zJRoXH4)
 - [Simple Web Starter Code](https://github.com/tmkelly28/simple-web-starter)
+
+
+### Testing
+
+#### Lectures
+
+- [Intro to Testing](https://youtu.be/T-Uody1EgoM)
+- [Async Testing](https://youtu.be/_E2k8n74msU)
+- [Spies, Stubs & Mocks](https://youtu.be/jodJpi7VfjQ)
+
+#### Homework
+
+- [Writing Great Unit Tests: Best and Worst Practices](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/) Required Reading 
+- [Test-Driven JavaScript Development in Practice](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) (Optional)
