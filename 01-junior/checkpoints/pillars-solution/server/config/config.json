@@ -1,0 +1,6 @@
+{
+  "database": "checkpoint_pillars",
+  "host": "localhost",
+  "dialect": "postgres",
+  "logging": false
+}
