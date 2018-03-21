@@ -241,3 +241,10 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 - [Writing Great Unit Tests: Best and Worst Practices](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/) Required Reading 
 - [Test-Driven JavaScript Development in Practice](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) (Optional)
+
+### React Router
+
+#### Lectures
+
+- [React Router Part I](https://youtu.be/vXZrUq8TXqw)
+- [React Router Part II](https://youtu.be/Q0D7jSJPLsI)
