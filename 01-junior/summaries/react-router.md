@@ -20,11 +20,16 @@ const Main = () => {
         <Route path='/bighead' component={BigheadPage} />
 
         {/*
+          Routes fuzzy ("starts with") match. You can override
+          this with the `exact` prop
+        */}
+        <Route exact path='/pugs' component={AllPugs} />
+        {/*
           You can also define wildcards!
           These are accessible from match.params (similar to req.params in Express)
           In this case, you will have match.params.pugId
         */}
-        <Route path='/pugs/:pugId' component={Pug} />
+        <Route path='/pugs/:pugId' component={SinglePug} />
 
         {/* need more space? use `render` */}
         <Route exact path='/' render={
