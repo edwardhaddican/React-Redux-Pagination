@@ -260,4 +260,4 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Forms Part II](https://youtu.be/1menPpeVzMM)
 
 #### Homework
-- [Todo List Review Playlist]()
+- [Todo List Review Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmnS1eehO0qAX1uBqBP6G113)
