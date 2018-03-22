@@ -261,3 +261,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Homework
 - [Todo List Review Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmnS1eehO0qAX1uBqBP6G113)
+
+
+### React Design Patterns
+
+#### Lectures
+- [React Prop Patterns](https://youtu.be/URA2vkWGa7M)
