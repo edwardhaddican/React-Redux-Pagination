@@ -268,6 +268,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Morning Review 3-23-18](https://youtu.be/-N0bElgbYSY)
 - [Event Emmiters, HTTP & Long Polling](https://youtu.be/8BmN8nhZHks)
 - [TCP, Sockets & Socket.IO](https://youtu.be/mH_0oE3v2JU)
+- [Weekly Review (Socket Rooms)](https://youtu.be/6K6leg9SRRE)
 
 
 ### React Design Patterns
