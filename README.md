@@ -267,3 +267,8 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [React Prop Patterns](https://youtu.be/URA2vkWGa7M)
+
+### Socket.io and World Wide Whiteboard
+
+#### Lectures
+- [Morning Review 3-23-18](https://youtu.be/-N0bElgbYSY)
