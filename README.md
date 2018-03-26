@@ -291,3 +291,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [Immutable Data Structures](https://youtu.be/pNTx2W51iUY)
+
+#### Additional Resources
+- [Immutable Data Structures Review](https://www.youtube.com/watch?v=zBnGh8oGlow&feature=youtu.be)
+- [A Flock of Functions - Fundamentals of Lambda Calculus and FP in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4&list=PLpkHU923F2XFWv-XfVuvWuxq41h21nOPK)
