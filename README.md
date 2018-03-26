@@ -23,6 +23,11 @@
 * [📺 Lecture: Indexing](https://youtu.be/AN5IzX7F1s0)
 * [📺 Review: Part III](https://youtu.be/hhCxZM-EJ4s)
 
+### Machine Learning
+
+* Lectures: [Part I](https://youtu.be/Oxj294VH0kI) and [Part II](https://youtu.be/EqDFLU4QUDg)
+* Exercises: [Part I](https://github.com/jctillman/competitive_search) and [Part II](https://github.com/jctillman/js-ml-workshop)
+
 </details>
 
 ## 🥚 Foundations
