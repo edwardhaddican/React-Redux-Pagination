@@ -228,6 +228,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Functional Programming
 - [FP Power Monday with GLL · Part I: Paradigms](https://youtu.be/NgAfc9tZoTk)
 - [FP Power Monday with GLL · Part II: Intro to FP](https://youtu.be/NgAfc9tZoTk)
+- [FP Power Monday with GLL · Part III: Currying](https://youtu.be/vSDgwVU50kU)
 - [Gist: Functional Programming](https://gist.github.com/glebec/a5c9309c7615d4bbdb838a4973e0f9d7)
 
 ### Other Presentations
