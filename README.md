@@ -287,3 +287,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Lectures
 - [React Prop Patterns](https://youtu.be/URA2vkWGa7M)
 
+### Functional Programming
+
+#### Lectures
+- [Immutable Data Structures](https://youtu.be/pNTx2W51iUY)
