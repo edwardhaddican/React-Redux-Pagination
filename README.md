@@ -225,6 +225,10 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Additional Resources
 - [React Starter Code](https://github.com/tmkelly28/simple-react-starter)
 
+### Functional Programming
+- [FP Power Monday with GLL · Part I: Paradigms](https://youtu.be/NgAfc9tZoTk)
+- [FP Power Monday with GLL · Part II: Intro to FP](https://youtu.be/NgAfc9tZoTk)
+
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
