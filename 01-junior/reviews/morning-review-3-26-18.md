@@ -1,0 +1,1 @@
+- Organizing props and mutating functions
