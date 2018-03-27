@@ -289,6 +289,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Advanced Lifecycle](https://youtu.be/4bHyam9SPAc)
 - [Render Props](https://youtu.be/-jQOnsxUM5w)
 - [Higher Order Components](https://youtu.be/KHimQB3DWRk)
+- [React Wrap Up](https://youtu.be/hkg_aRWoA-k)
 
 #### Homework (Required Viewing)
 - [Wizard Quiz Review Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlMX-S5jMgJQGMDQFXGpAsf)
