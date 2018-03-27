@@ -281,11 +281,17 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [TCP, Sockets & Socket.IO](https://youtu.be/mH_0oE3v2JU)
 - [Weekly Review (Socket Rooms)](https://youtu.be/6K6leg9SRRE)
 
-
 ### React Design Patterns
 
 #### Lectures
 - [React Prop Patterns](https://youtu.be/URA2vkWGa7M)
+- [Morning Review 3-27-18](https://youtu.be/yNoKKzkkw3g)
+- [Advanced Lifecycle](https://youtu.be/4bHyam9SPAc)
+- [Render Props](https://youtu.be/-jQOnsxUM5w)
+- [Higher Order Components](https://youtu.be/KHimQB3DWRk)
+
+#### Homework (Required Viewing)
+- [Wizard Quiz Review Playlist]()
 
 ### Functional Programming
 
