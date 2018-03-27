@@ -291,7 +291,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Higher Order Components](https://youtu.be/KHimQB3DWRk)
 
 #### Homework (Required Viewing)
-- [Wizard Quiz Review Playlist]()
+- [Wizard Quiz Review Playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlMX-S5jMgJQGMDQFXGpAsf)
 
 ### Functional Programming
 
