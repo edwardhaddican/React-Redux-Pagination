@@ -225,12 +225,6 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Additional Resources
 - [React Starter Code](https://github.com/tmkelly28/simple-react-starter)
 
-### Functional Programming
-- [FP Power Monday with GLL · Part I: Paradigms](https://youtu.be/NgAfc9tZoTk)
-- [FP Power Monday with GLL · Part II: Intro to FP](https://youtu.be/NgAfc9tZoTk)
-- [FP Power Monday with GLL · Part III: Currying](https://youtu.be/vSDgwVU50kU)
-- [Gist: Functional Programming](https://gist.github.com/glebec/a5c9309c7615d4bbdb838a4973e0f9d7)
-
 ### Other Presentations
 - [Alumni Panel](https://youtu.be/4n66yqA0rE4)
 
@@ -297,13 +291,18 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Functional Programming
 
 #### Lectures
+- [Paradigms](https://youtu.be/NgAfc9tZoTk)
+- [Intro to FP](https://youtu.be/NgAfc9tZoTk)
+- [Currying](https://youtu.be/vSDgwVU50kU)
 - [Immutable Data Structures](https://youtu.be/pNTx2W51iUY)
 
 #### Homework (Required Reading)
 - [Render Props](https://reactjs.org/docs/render-props.html)
 - [Higher Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+- [Jamda Solution Review Video](https://youtu.be/agzXoJYamVk)
 
 #### Additional Resources
 - [Immutable Data Structures Review](https://www.youtube.com/watch?v=zBnGh8oGlow&feature=youtu.be)
 - [A Flock of Functions - Fundamentals of Lambda Calculus and FP in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4&list=PLpkHU923F2XFWv-XfVuvWuxq41h21nOPK)
+- [Gist: Functional Programming](https://gist.github.com/glebec/a5c9309c7615d4bbdb838a4973e0f9d7)
