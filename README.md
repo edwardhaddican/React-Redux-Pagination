@@ -310,6 +310,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 
 ### Redux
+- [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
 
 #### Lectures
 - [Redux](https://youtu.be/0zTwR5RVOlo)
