@@ -310,8 +310,12 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 
 ### Redux
-- [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
 
 #### Lectures
 - [Redux](https://youtu.be/0zTwR5RVOlo)
 - [Action types & action creators](https://youtu.be/bVWL3wUxmdg)
+
+#### Homework
+- [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
+- [Getting Started with Redux (By Dan Abramov, redux creator)](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree) **Watch lessons 1-7 only.**
+
