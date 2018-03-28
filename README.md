@@ -294,7 +294,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [Paradigms](https://youtu.be/NgAfc9tZoTk)
-- [Intro to FP](https://youtu.be/NgAfc9tZoTk)
+- [Intro to FP](https://youtu.be/Ne53NPKHEOE)
 - [Currying](https://youtu.be/vSDgwVU50kU)
 - [Immutable Data Structures](https://youtu.be/pNTx2W51iUY)
 
