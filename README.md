@@ -11,6 +11,7 @@
 - [📖 Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 - [📖 MVC vs Redux (Flux)](https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html)
 - [📖 Gist: Intro to Express](https://gist.github.com/tmkelly28/e00d4e4b8d38b9605706e107741a11e6)
+- [☕ Cody's Cafe](https://github.com/FullstackAcademy/codys-cafe)
 
 ## CS Saturday
 
@@ -310,8 +311,12 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 
 ### Redux
-- [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
 
 #### Lectures
 - [Redux](https://youtu.be/0zTwR5RVOlo)
 - [Action types & action creators](https://youtu.be/bVWL3wUxmdg)
+
+#### Homework
+- [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
+- [Getting Started with Redux (By Dan Abramov, redux creator)](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree) **Watch lessons 1-7 only.**
+
