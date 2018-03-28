@@ -307,3 +307,11 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Immutable Data Structures Review](https://www.youtube.com/watch?v=zBnGh8oGlow&feature=youtu.be)
 - [A Flock of Functions - Fundamentals of Lambda Calculus and FP in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4&list=PLpkHU923F2XFWv-XfVuvWuxq41h21nOPK)
 - [Gist: Functional Programming](https://gist.github.com/glebec/a5c9309c7615d4bbdb838a4973e0f9d7)
+
+
+### Redux
+- [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
+
+#### Lectures
+- [Redux](https://youtu.be/0zTwR5RVOlo)
+- [Action types & action creators](https://youtu.be/bVWL3wUxmdg)
