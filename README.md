@@ -325,3 +325,4 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 #### Lectures
 - [React and Redux](https://youtu.be/VPJHtZ73miE)
 - [React-Redux](https://youtu.be/YvoOuH4f7L8)
+- [Thunk Middleware](https://youtu.be/Lzz1lABEkN0)
