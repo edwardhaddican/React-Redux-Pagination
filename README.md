@@ -294,7 +294,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 #### Lectures
 - [Paradigms](https://youtu.be/NgAfc9tZoTk)
-- [Intro to FP](https://youtu.be/NgAfc9tZoTk)
+- [Intro to FP](https://youtu.be/Ne53NPKHEOE)
 - [Currying](https://youtu.be/vSDgwVU50kU)
 - [Immutable Data Structures](https://youtu.be/pNTx2W51iUY)
 
@@ -320,3 +320,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [XOXO Review (starts a little late)](https://youtu.be/zvRXx4qp8ZI)
 - [Getting Started with Redux (By Dan Abramov, redux creator)](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree) **Watch lessons 1-7 only.**
 
+### React-Redux
+
+#### Lectures
+- [React and Redux](https://youtu.be/VPJHtZ73miE)
+- [React-Redux](https://youtu.be/YvoOuH4f7L8)
+- [Thunk Middleware](https://youtu.be/Lzz1lABEkN0)
