@@ -13,6 +13,14 @@
 - [📖 Gist: Intro to Express](https://gist.github.com/tmkelly28/e00d4e4b8d38b9605706e107741a11e6)
 - [☕ Cody's Cafe](https://github.com/FullstackAcademy/codys-cafe)
 
+## Starting Points
+
+- [Simple Web](https://github.com/tmkelly28/simple-web-starter)
+- [Simple React](https://github.com/tmkelly28/simple-react-starter)
+- [Simple React/Redux](https://github.com/tmkelly28/simple-react-redux)
+- [React + Express/Sequelize](https://github.com/tmkelly28/react-with-server)
+- [React/Redux + Express/Sequelize](https://github.com/tmkelly28/react-redux-with-server)
+
 ## CS Saturday
 
 <details><summary>Click Here</summary>
