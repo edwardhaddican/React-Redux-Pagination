@@ -345,9 +345,17 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Redux: Rounding Out
 - [Lecture](https://youtu.be/TYgyB9ey7Nc)
 
-### Authentication
+### Authentication and Security
 - [Lecture: Sessions](https://youtu.be/HxQPocwVNFY)
 - [Lecture: Authentication](https://youtu.be/JQkRk-l9Bq8)
 - [Lecture: Deployment](https://youtu.be/JuZEOv2X2o0)
 - [Morning Review: 04/03/18](https://youtu.be/1u3kh3bdwDo)
 - [Lecture: OAuth](https://youtu.be/3BXkQR9QEI4)
+- [Lecture: Web Security Part 1](https://youtu.be/7gowoDyhiS8)
+- [Lecture: Web Security Part 2](https://youtu.be/Ke-2988PXNg)
+- [Lecture: Web Security Part 3](https://youtu.be/hvZW9tiaAdA)
+- [Lecture: Web Security Part 4](https://youtu.be/FQY-Jm5ItJM)
+
+### Senior Enrichment Project
+- [Intro to Senior Enrichment Project](https://youtu.be/VNn5be4eEto)
+- [Senior Enrichment Project Starter](https://github.com/FullstackAcademy/enrichment-project-starter)
