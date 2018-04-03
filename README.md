@@ -335,3 +335,15 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [React-Redux](https://youtu.be/YvoOuH4f7L8)
 - [Thunk Middleware](https://youtu.be/Lzz1lABEkN0)
 - [Morning Review 3-30-18](https://youtu.be/R5oh_m0jvMI)
+
+#### Homework
+- [Getting Started with Redux (By Dan Abramov, redux creator)](https://egghead.io/lessons/react-redux-react-counter-example) **Watch lessons from 8 to the end**
+
+
+### Redux: Rounding Out
+- [Lecture](https://youtu.be/TYgyB9ey7Nc)
+
+### Authentication
+- [Lecture: Sessions](https://youtu.be/HxQPocwVNFY)
+- [Lecture: Authentication](https://youtu.be/JQkRk-l9Bq8)
+- [Lecture: Deployment](https://youtu.be/JuZEOv2X2o0)
