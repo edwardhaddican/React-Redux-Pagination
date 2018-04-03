@@ -347,3 +347,5 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Lecture: Sessions](https://youtu.be/HxQPocwVNFY)
 - [Lecture: Authentication](https://youtu.be/JQkRk-l9Bq8)
 - [Lecture: Deployment](https://youtu.be/JuZEOv2X2o0)
+- [Morning Review: 04/03/18](https://youtu.be/1u3kh3bdwDo)
+- [Lecture: OAuth](https://youtu.be/3BXkQR9QEI4)
