@@ -21,6 +21,8 @@
 - [React + Express/Sequelize](https://github.com/tmkelly28/react-with-server)
 - [React/Redux + Express/Sequelize](https://github.com/tmkelly28/react-redux-with-server)
 
+- [Senior Enrichment Project Starter](https://github.com/FullstackAcademy/enrichment-project-starter)
+
 ## CS Saturday
 
 <details><summary>Click Here</summary>
