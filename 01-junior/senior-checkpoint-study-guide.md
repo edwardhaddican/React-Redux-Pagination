@@ -83,6 +83,7 @@ This study guide is intended to help focus your studying for the senior checkpoi
 - [List of operators](http://docs.sequelizejs.com/manual/tutorial/querying.html#operators)
 - [List of validations](http://docs.sequelizejs.com/manual/tutorial/models-definition.html#validations)
 - [Gist: Sequelize Associations](https://gist.github.com/joedotjs/4a57c5e2037fa15a25fe52131a21ae91)
+- [Gist: Order of Hooks](https://gist.github.com/tmkelly28/600ed87dc79f27f06029ee68571f820f)
 
 ---
 
