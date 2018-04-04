@@ -1,6 +1,6 @@
 # STUDY GUIDE
 
-This study guide is intended to help focus your studying for the senior checkpoint. It is necessarily exhaustive, nor should it be your only point of reference.
+This study guide is intended to help focus your studying for the senior checkpoint. It is not necessarily exhaustive, nor should it be your only point of reference.
 
 ## JAVASCRIPT
 
