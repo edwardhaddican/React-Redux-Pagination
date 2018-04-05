@@ -359,3 +359,6 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Senior Enrichment Project
 - [Intro to Senior Enrichment Project](https://youtu.be/VNn5be4eEto)
 - [Senior Enrichment Project Starter](https://github.com/FullstackAcademy/enrichment-project-starter)
+
+### Curriculum Review
+ - [Curriculum Review](https://youtu.be/cYRmursvnDU)
