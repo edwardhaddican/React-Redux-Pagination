@@ -27,6 +27,10 @@
 
 <details><summary>Click Here</summary>
 
+### Compilers
+
+- [Everything (lecture & review)](https://youtu.be/VEsAKLWgqTk)
+
 ### FQL (Functional Query Language)
 
 * [📺 Lecture: Intro](https://youtu.be/zoS6WHQv9ro)
@@ -38,6 +42,10 @@
 
 * Lectures: [Part I](https://youtu.be/Oxj294VH0kI) and [Part II](https://youtu.be/EqDFLU4QUDg)
 * Exercises: [Part I](https://github.com/jctillman/competitive_search) and [Part II](https://github.com/jctillman/js-ml-workshop)
+
+### Security
+
+- [Everything](https://drive.google.com/drive/folders/1LJpOIFbgYLVRk05_z4cIEaY67csZ63GJ)
 
 </details>
 
