@@ -43,6 +43,10 @@
 * Lectures: [Part I](https://youtu.be/Oxj294VH0kI) and [Part II](https://youtu.be/EqDFLU4QUDg)
 * Exercises: [Part I](https://github.com/jctillman/competitive_search) and [Part II](https://github.com/jctillman/js-ml-workshop)
 
+### Algorithms
+
+* [📺 Lecture](https://zoom.us/recording/play/Cx1HCd1g7UROyIQj7pWeANBahsjfQxabtHL9ba58JnisAjDhtB3S72zWLtZRQ4Fj?autoplay=true)
+
 ### Security
 
 - [Everything](https://drive.google.com/drive/folders/1LJpOIFbgYLVRk05_z4cIEaY67csZ63GJ)
