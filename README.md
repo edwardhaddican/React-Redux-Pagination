@@ -373,4 +373,12 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Senior Enrichment Project Starter](https://github.com/FullstackAcademy/enrichment-project-starter)
 
 ### Curriculum Review
- - [Curriculum Review](https://youtu.be/cYRmursvnDU)
+- [Curriculum Review](https://youtu.be/cYRmursvnDU)
+
+## Senior Phase
+
+### Grace Shopper
+- [Senior Phase Survival Guide](https://youtu.be/FJXHDRcwdyc)
+- [How to Work Together](https://youtu.be/_r4NotDKt4o)
+- [Grace Shopper Starting Point: Part 1](https://youtu.be/RR2XZ-eOHXE)
+- [Grace Shopper Starting Point: Part 2](https://youtu.be/jl2Peaf9wgY)
