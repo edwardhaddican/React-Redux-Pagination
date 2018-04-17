@@ -382,3 +382,6 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [How to Work Together](https://youtu.be/_r4NotDKt4o)
 - [Grace Shopper Starting Point: Part 1](https://youtu.be/RR2XZ-eOHXE)
 - [Grace Shopper Starting Point: Part 2](https://youtu.be/jl2Peaf9wgY)
+
+### REACTO Lectures
+- [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
