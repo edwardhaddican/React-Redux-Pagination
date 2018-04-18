@@ -8,7 +8,7 @@ let deltaY = 1
 ball.style.left = '0px'
 ball.style.top = '0px'
 
-const moveBall = () => {
+export const moveBall = () => {
   const {left, top} = ball.style
   let x = +left.slice(0, -2)
   let y = +top.slice(0, -2)
