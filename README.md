@@ -383,6 +383,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Grace Shopper Starting Point: Part 1](https://youtu.be/RR2XZ-eOHXE)
 - [Grace Shopper Starting Point: Part 2](https://youtu.be/jl2Peaf9wgY)
 - [Grace Shopper: Authentication](https://youtu.be/832tYGut6jI)
+- [Grace Shopper: Testing](https://youtu.be/c_GTIwCYfog)
 
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
