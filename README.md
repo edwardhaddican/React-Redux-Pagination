@@ -384,4 +384,5 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Grace Shopper Starting Point: Part 2](https://youtu.be/jl2Peaf9wgY)
 
 ### REACTO Lectures
+- [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
 - [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
