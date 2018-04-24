@@ -21,9 +21,15 @@
 - [React + Express/Sequelize](https://github.com/tmkelly28/react-with-server)
 - [React/Redux + Express/Sequelize](https://github.com/tmkelly28/react-redux-with-server)
 
+- [Senior Enrichment Project Starter](https://github.com/FullstackAcademy/enrichment-project-starter)
+
 ## CS Saturday
 
 <details><summary>Click Here</summary>
+
+### Compilers
+
+- [Everything (lecture & review)](https://youtu.be/VEsAKLWgqTk)
 
 ### FQL (Functional Query Language)
 
@@ -36,6 +42,14 @@
 
 * Lectures: [Part I](https://youtu.be/Oxj294VH0kI) and [Part II](https://youtu.be/EqDFLU4QUDg)
 * Exercises: [Part I](https://github.com/jctillman/competitive_search) and [Part II](https://github.com/jctillman/js-ml-workshop)
+
+### Algorithms
+
+* [📺 Lecture](https://zoom.us/recording/play/Cx1HCd1g7UROyIQj7pWeANBahsjfQxabtHL9ba58JnisAjDhtB3S72zWLtZRQ4Fj?autoplay=true)
+
+### Security
+
+- [Everything](https://drive.google.com/drive/folders/1LJpOIFbgYLVRk05_z4cIEaY67csZ63GJ)
 
 </details>
 
@@ -343,7 +357,34 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 ### Redux: Rounding Out
 - [Lecture](https://youtu.be/TYgyB9ey7Nc)
 
-### Authentication
+### Authentication and Security
 - [Lecture: Sessions](https://youtu.be/HxQPocwVNFY)
 - [Lecture: Authentication](https://youtu.be/JQkRk-l9Bq8)
 - [Lecture: Deployment](https://youtu.be/JuZEOv2X2o0)
+- [Morning Review: 04/03/18](https://youtu.be/1u3kh3bdwDo)
+- [Lecture: OAuth](https://youtu.be/3BXkQR9QEI4)
+- [Lecture: Web Security Part 1](https://youtu.be/7gowoDyhiS8)
+- [Lecture: Web Security Part 2](https://youtu.be/Ke-2988PXNg)
+- [Lecture: Web Security Part 3](https://youtu.be/hvZW9tiaAdA)
+- [Lecture: Web Security Part 4](https://youtu.be/FQY-Jm5ItJM)
+
+### Senior Enrichment Project
+- [Intro to Senior Enrichment Project](https://youtu.be/VNn5be4eEto)
+- [Senior Enrichment Project Starter](https://github.com/FullstackAcademy/enrichment-project-starter)
+
+### Curriculum Review
+- [Curriculum Review](https://youtu.be/cYRmursvnDU)
+
+## Senior Phase
+
+### Grace Shopper
+- [Senior Phase Survival Guide](https://youtu.be/FJXHDRcwdyc)
+- [How to Work Together](https://youtu.be/_r4NotDKt4o)
+- [Grace Shopper Starting Point: Part 1](https://youtu.be/RR2XZ-eOHXE)
+- [Grace Shopper Starting Point: Part 2](https://youtu.be/jl2Peaf9wgY)
+- [Grace Shopper: Authentication](https://youtu.be/832tYGut6jI)
+- [Grace Shopper: Testing](https://youtu.be/c_GTIwCYfog)
+
+### REACTO Lectures
+- [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
+- [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
