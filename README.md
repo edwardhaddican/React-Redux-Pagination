@@ -385,6 +385,8 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Grace Shopper: Authentication](https://youtu.be/832tYGut6jI)
 - [Grace Shopper: Testing](https://youtu.be/c_GTIwCYfog)
 
+- [Grace Shopper: Presentations!](https://youtu.be/WdZXXARZazY)
+
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
 - [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
