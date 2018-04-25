@@ -388,6 +388,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Grace Shopper: Presentations!](https://youtu.be/WdZXXARZazY)
 - [Grace Shopper: Wrap Up Lecture](https://youtu.be/sO4tOb2t_HI)
 
+### Stackathon
+- [Intro to Stackathon](https://youtu.be/epWpJgV9kCM)
+
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
 - [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
