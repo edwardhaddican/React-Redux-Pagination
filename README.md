@@ -386,6 +386,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Grace Shopper: Testing](https://youtu.be/c_GTIwCYfog)
 
 - [Grace Shopper: Presentations!](https://youtu.be/WdZXXARZazY)
+- [Grace Shopper: Wrap Up Lecture](https://youtu.be/sO4tOb2t_HI)
 
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
