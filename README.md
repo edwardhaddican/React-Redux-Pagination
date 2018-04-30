@@ -390,6 +390,10 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### Stackathon
 - [Intro to Stackathon](https://youtu.be/epWpJgV9kCM)
+- [Stackathon Presentations](https://youtu.be/ecGv-GgC03Q)
+
+### Capstone
+- [Intro to Capstone](https://youtu.be/LuCYeIclYdY)
 
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
@@ -397,4 +401,3 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### Career Success
 - [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)
-- [Career Success Workshops (4-24-18)](https://youtu.be/pCbaJsERzbg)
