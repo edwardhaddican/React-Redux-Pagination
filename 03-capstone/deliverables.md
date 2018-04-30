@@ -35,15 +35,15 @@
 
 ## Week 2
 
-- 4/7 Monday
+- 5/7 Monday
   - morning (Mon 10:30am-1pm): "critical feature" demo (informal instructor check-in)
     [] high-risk feature working (if not, plan to pivot)
     [] "fullstack", things working together
 
-- 4/8 Tuesday : CODE REVIEW
+- 5/8 Tuesday : CODE REVIEW
   - students at the helm and instructor leading
 
-- 4/11 Friday
+- 5/11 Friday
   - afternoon (~5pm): MVP group testing
     - try out each other's projects (we will organize this!)
     - gather user feedback
@@ -51,18 +51,18 @@
 
 ## Week 3
 
-- 4/14 Monday: CODE REVIEW
+- 5/14 Monday: CODE REVIEW
   - students at the helm and instructor leading
 
-- 4/16 Wednesday
+- 5/16 Wednesday
   [] working demo due (for friends and family night)
   - non-technical ~1 minute pitch
   - last full capstone work day
 
-- 4/18 Friday
+- 5/18 Friday
   [] screencast due (~EOD)
 
 ## Final Week
 
-- 4/21 Monday
+- 5/21 Monday
   - Demo Day!
