@@ -399,6 +399,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
 - [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
 - [Optimizations - REACTO lecture](https://youtu.be/rLVdmS6-f60)
+- [Numbers](https://youtu.be/dT__YmVJAE8)
 
 ### Career Success
 - [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)
