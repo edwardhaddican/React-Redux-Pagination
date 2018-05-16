@@ -13,6 +13,29 @@
 - [📖 Gist: Intro to Express](https://gist.github.com/tmkelly28/e00d4e4b8d38b9605706e107741a11e6)
 - [☕ Cody's Cafe](https://github.com/FullstackAcademy/codys-cafe)
 
+## Back to Basics (and Beyond)
+
+### Javascript
+
+- [What the Heck is the Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [You Don't Know JS (free book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Functional Light JS](https://github.com/getify/Functional-Light-JS)
+- [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+### Node
+- [Art of Node](https://github.com/maxogden/art-of-node)
+
+### Postgres/Databases
+- [Postgres Tutorial](http://www.postgresqltutorial.com/)
+
+### Scalability/Devops/Architecture
+- [How to scale a Node.js app based on number of users](http://adrianmejia.com/blog/2016/03/23/how-to-scale-a-nodejs-app-based-on-number-of-users/)
+- [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+
+### Algorithms/Data Structures/Comp Sci
+- [Algo Expert](https://www.algoexpert.io/questions)
+- [InterviewCake](https://www.interviewcake.com/)
+
 ## Starting Points
 
 - [Simple Web](https://github.com/tmkelly28/simple-web-starter)
