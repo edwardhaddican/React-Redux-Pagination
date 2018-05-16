@@ -35,6 +35,8 @@
 ### Algorithms/Data Structures/Comp Sci
 - [Algo Expert](https://www.algoexpert.io/questions)
 - [InterviewCake](https://www.interviewcake.com/)
+- [Algorithms ("Tutorial Horizon")](https://algorithms.tutorialhorizon.com/)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
 
 ## Starting Points
 
