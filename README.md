@@ -420,6 +420,9 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 
 ### Capstone
 - [Intro to Capstone](https://youtu.be/LuCYeIclYdY)
+- [Demo Day Brief + How to Give a Good Presentation](https://youtu.be/mOR2rwmCYWY)
+- [Using Camtasia 3](https://youtu.be/2IebJ2mIBB4)
+- [Gist re: Camtasia 2](https://gist.github.com/glebec/1d46a1ae561c8b6b0bf13f7dafb4da64)
 
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
