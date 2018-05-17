@@ -13,6 +13,32 @@
 - [📖 Gist: Intro to Express](https://gist.github.com/tmkelly28/e00d4e4b8d38b9605706e107741a11e6)
 - [☕ Cody's Cafe](https://github.com/FullstackAcademy/codys-cafe)
 
+## Back to Basics (and Beyond)
+
+### Javascript
+
+- [What the Heck is the Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [You Don't Know JS (free book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Functional Light JS](https://github.com/getify/Functional-Light-JS)
+- [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+### Node
+- [Art of Node](https://github.com/maxogden/art-of-node)
+
+### Postgres/Databases
+- [Postgres Tutorial](http://www.postgresqltutorial.com/)
+
+### Scalability/Devops/Architecture
+- [How to scale a Node.js app based on number of users](http://adrianmejia.com/blog/2016/03/23/how-to-scale-a-nodejs-app-based-on-number-of-users/)
+- [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+
+### Algorithms/Data Structures/Comp Sci
+- [Algo Expert](https://www.algoexpert.io/questions)
+- [InterviewCake](https://www.interviewcake.com/)
+- [Algorithms ("Tutorial Horizon")](https://algorithms.tutorialhorizon.com/)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling)
+
 ## Starting Points
 
 - [Simple Web](https://github.com/tmkelly28/simple-web-starter)
@@ -385,6 +411,26 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Grace Shopper: Authentication](https://youtu.be/832tYGut6jI)
 - [Grace Shopper: Testing](https://youtu.be/c_GTIwCYfog)
 
+- [Grace Shopper: Presentations!](https://youtu.be/WdZXXARZazY)
+- [Grace Shopper: Wrap Up Lecture](https://youtu.be/sO4tOb2t_HI)
+
+### Stackathon
+- [Intro to Stackathon](https://youtu.be/epWpJgV9kCM)
+- [Stackathon Presentations](https://youtu.be/ecGv-GgC03Q)
+
+### Capstone
+- [Intro to Capstone](https://youtu.be/LuCYeIclYdY)
+- [Demo Day Brief + How to Give a Good Presentation](https://youtu.be/mOR2rwmCYWY)
+- [Using Camtasia 3](https://youtu.be/2IebJ2mIBB4)
+- [Gist re: Camtasia 2](https://gist.github.com/glebec/1d46a1ae561c8b6b0bf13f7dafb4da64)
+
 ### REACTO Lectures
 - [Intro to REACTO lecture](https://youtu.be/IcNSA5DsDMQ)
 - [Big O - REACTO lecture](https://youtu.be/b9DJY98jXfU)
+- [Optimizations - REACTO lecture](https://youtu.be/rLVdmS6-f60)
+- [Numbers](https://youtu.be/dT__YmVJAE8)
+- [Functional Programming - REACTO lecture](https://youtu.be/i2KRRbuTXRo)
+
+### Career Success
+- [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)
+- [Senior Alum Panel](https://youtu.be/fNe6BTdl068)
