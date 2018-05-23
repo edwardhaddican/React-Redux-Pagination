@@ -430,6 +430,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Optimizations - REACTO lecture](https://youtu.be/rLVdmS6-f60)
 - [Numbers](https://youtu.be/dT__YmVJAE8)
 - [Functional Programming - REACTO lecture](https://youtu.be/i2KRRbuTXRo)
+- [Technical Interview Q/A](https://youtu.be/YFdZTeUqTuk)
 
 ### Career Success
 - [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)
