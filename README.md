@@ -40,6 +40,7 @@
 - [Algorithms ("Tutorial Horizon")](https://algorithms.tutorialhorizon.com/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling)
+- [JavaScript Algorithms and DS](https://github.com/trekhleb/javascript-algorithms)
 
 ## Starting Points
 
