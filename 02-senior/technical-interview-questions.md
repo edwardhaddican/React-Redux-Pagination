@@ -40,6 +40,66 @@ function createThingLogger () {
 
 ## Q: Explain how the event loop works in JavaScript
 
+- JavaScript is single-threaded. JavaScript allows for async actions to be passed to the event loop call stack.
+- Node/browser are multi-thread. It schedules the exectuion of those asyc actions and queues the invocation of callbacks when done.
+
+
+```ruby
+def fetchFromDb do
+  puts "Fetching the user"
+  user = User.findById(8)
+end
+
+fetchFromDb()
+puts("End")
+```
+
+
+```js
+async function fetchFromDb(){
+  console.log("Fetching the user");
+  user = await User.findById(8);
+  console.log("done with this function")'
+}
+
+fetchFromDb();
+console.log("End");
+```
+
+```js
+
+app.get('/', async(req, res) => {
+  res.send(html`<p>Hello</p>`)
+})
+
+
+app.get('/users', async(req, res) => {
+  const users = await User.findAll()
+  res.send(html`<p>here are the user ${users}</p>`)
+})
+```
+
+
+In a non-blocking, single theaded language
+In the above example, if two requests arrive, one for /users and one for /:
+
+- Start running the /users callback
+- Schedule the async operation with the event loop
+- start running the / callback
+- send the / response
+- Get notified by the event loop that db is done
+- send the /users response
+
+
+
+In a Blocking language, single theaded language
+- Start running the /users callback
+- stop and wait for the db
+- send the / response
+- start running the / callback
+- send the / response
+
+
 ## Q: How does Redux work? What methods are available on a Redux store, and what do they do?
 
 ## Q: Explain the difference between `call`, `apply`, and `bind`
