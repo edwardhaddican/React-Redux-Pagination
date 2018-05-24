@@ -1,4 +1,42 @@
 ## Q: What is the difference between `var`, `const`, and `let`?
+- `var`: declares a variable, not block-scope. "function"-scope
+
+```javascript
+function foo () {
+  var bar
+
+  if (true) {
+    let quux
+    bar = 'baz'
+    quux = 'quux'
+  }
+}
+
+function arrayOfFn (n) {
+  var arr = []
+  for (var i = 0 ; i < n; i++) {
+    arr.push(() => console.log(i))
+  }
+  // sadness ahead...
+  return arr
+}
+
+
+function createThingLogger () {
+  var thing = 3
+
+  function logThing () {
+    console.log(thing)
+  }
+
+  thing++
+
+  return logThing
+}
+```
+
+- `let`: block-scoped
+- `const`: block-scoped, cannot re-assign that variable, NOT mean that the value is immutable, const required initialization
 
 ## Q: Explain how the event loop works in JavaScript
 
