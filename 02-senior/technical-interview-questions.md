@@ -40,18 +40,24 @@ function createThingLogger () {
 
 ## Q: Explain how the event loop works in JavaScript
 
-- JavaScript is single-threaded. JavaScript allows for async actions to be passed to the event loop call stack.
-- Node/browser are multi-thread. It schedules the exectuion of those asyc actions and queues the invocation of callbacks when done.
+- JavaScript is single-threaded, but the event loop allows it to be non-blocking: Async operations to be scheduled in the event loop (providing a callback).
+- Node is multi-threaded. It executes those asyc actions on a separate thread and queues the invocation of js callbacks when done.
 
 
 ```ruby
 def fetchFromDb do
   puts "Fetching the user"
   user = User.findById(8)
+  puts "done with this function"
 end
 
 fetchFromDb()
-puts("End")
+puts("End of file")
+
+# Outputs:
+# "Fetching the user"
+# "done with this function"
+# "End of file"
 ```
 
 
@@ -59,12 +65,19 @@ puts("End")
 async function fetchFromDb(){
   console.log("Fetching the user");
   user = await User.findById(8);
-  console.log("done with this function")'
+  console.log("done with this function")
 }
 
 fetchFromDb();
-console.log("End");
+console.log("End of file");
+
+// Outputs
+// "Fetching the user"
+// "End of file" (javascript paused the execution of the `fetchFromDb` function but kept executing the code)
+// "done with this function"
 ```
+
+The above example is true and correct, but a little bit convoluted. Let's take a look at a better example:
 
 ```js
 
@@ -79,25 +92,24 @@ app.get('/users', async(req, res) => {
 })
 ```
 
+In a non-blocking, single theaded language (Like Javascript). if two requests arrive, one immediately after another, for `/users` and `/`:
 
-In a non-blocking, single theaded language
-In the above example, if two requests arrive, one for /users and one for /:
-
-- Start running the /users callback
-- Schedule the async operation with the event loop
-- start running the / callback
-- send the / response
+Node will:
+- Start running the `/users` callback
+- Schedule the async operation (fetching from the database) with the event loop.
+- start running the `/` callback
+- send the `/` response
 - Get notified by the event loop that db is done
-- send the /users response
+- send the `/users` response
 
 
 
-In a Blocking language, single theaded language
-- Start running the /users callback
-- stop and wait for the db
-- send the / response
-- start running the / callback
-- send the / response
+In a Blocking language, single theaded language, a similar example as above (using Ruby and Sinatra, for example), will:
+- Start running the `/users` callback
+- stop and wait for the db (Block)
+- send the `/users` response
+- start running the `/` callback
+- send the `/` response
 
 
 ## Q: How does Redux work? What methods are available on a Redux store, and what do they do?
