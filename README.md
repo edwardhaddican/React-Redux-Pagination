@@ -435,6 +435,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Functional Programming - REACTO lecture](https://youtu.be/i2KRRbuTXRo)
 - [Technical Interview Q/A](https://youtu.be/YFdZTeUqTuk)
 - [Review: Technical Interview Exercise](https://youtu.be/PhlvznblOw0)
+- [Architecture Interview Questions](https://youtu.be/XRLLu79agFY)
 
 ### Career Success
 - [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)
