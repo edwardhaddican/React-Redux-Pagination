@@ -21,6 +21,7 @@
 - [You Don't Know JS (free book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 - [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 
 ### Node
 - [Art of Node](https://github.com/maxogden/art-of-node)
