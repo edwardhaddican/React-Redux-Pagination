@@ -116,7 +116,28 @@ In a Blocking language, single theaded language
 
 ## Q: Explain the concept of closures in JavaScript
 
-## Q: What is Node, and what are it's advantages?
+## Q: What is Node, and what are its advantages?
+
+- Node: a JS framework, connects to underlying OS/networking with C/C++ bindings, utilizes the V8 engine for JS execution/binding
+- Makes it possible to use JS in the environment of an OS, rather than the browser
+
+* Advantages
+  - "non-blocking I/O": async read/write calls without blocking the main execution thread
+    - file read/write
+    - database read/write
+    - OS system events: selecting a file/folder, events being "emitted" from the hard disk, keypresses, audio
+    - network read/write || request/response
+  - abstraction in JS between you and the operating system
+    - makes it possible to program for multiple OS environments if you're already familiar with JS/web
+  - for web apps: great to have the full stack in one language
+    - if you can debug JS, you know what to do whether you're working on the server/client
+
+* Disadvantages
+  - Abstraction between you and operating system
+    - less efficient than something lower-level (C)
+    - CPU-heavy tasks, it ain't good at
+      - JS is higher level, not built for heavy computation
+  - Keeping track of features (babel, webpack, javascript fatigue in general)
 
 ## Q: What is the difference between "pass by value" and "pass by reference" (aka "pass by copy of a reference" or "pass by sharing a reference") in JavaScript
 
