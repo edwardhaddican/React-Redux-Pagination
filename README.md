@@ -33,6 +33,7 @@
 ### Scalability/Devops/Architecture
 - [How to scale a Node.js app based on number of users](http://adrianmejia.com/blog/2016/03/23/how-to-scale-a-nodejs-app-based-on-number-of-users/)
 - [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+- [Architecture Resources](https://gist.github.com/hiend/39fe217ffd759b8fb58a7bc55b8daccb)
 
 ### Algorithms/Data Structures/Comp Sci
 - [Algo Expert](https://www.algoexpert.io/questions)
