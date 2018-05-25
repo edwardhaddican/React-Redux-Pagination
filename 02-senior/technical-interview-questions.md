@@ -180,13 +180,38 @@ It can be used to mimic "inheritance" because shared behavior for "instances" of
 
 ## Q: Explain some common lifecycle methods in React, and how you would use them
 
+`componentDidMount`: this is fired once after a component is initially rendered and mounted on the DOM. It is the recommended place to perform side effects like AJAX to fetch data that the component needs from the server
+
+`componentWillUnmount`: this is fired when a component is "unmounted" (removed) from the DOM. You should use it to clean up things like event listeners or timers (otherwise, you would get a memory leak)
+
+`shouldComponentUpdate`: this is fired when a component receives new props, or when the component's state has changed. You can use the nextProps and nextState to determine whether the component's render method should fire again. If you should, then you return true from the method. If you want to prevent a re-render, return false
+
 ## Q: What is the difference between a (contiguous) array and a linked list? What are the advantages/disadvantages of each?
 
+A contiguous array is a set of cells that are physically adjacent in memory. This locality makes it very easy to quickly traverse them. However, you need to know the size of the array beforehand - otherwise, if you end up needing more space, you need to re-allocate a new set of adjacent cells and copy all of the data over into them.
+
+A linked list is a set of cells that are physically dispersed throughout memory. Each cell stores some data, and the link to the next and/or previous cell in the list. This means it takes longer to traverse the list. However, because the cells do not need to be physically adjacent, you can easily add new nodes to the list.
+
 ## Q: What is a relational database, and what are it's advantages and disadvantages?
+
+* Data is stored in relational tables
+* Primary/foreign key relations
+* Use SQL as our means of querying
+* ACID-compliant transactions
+  * A - Atomicity
+  * C - Consistency
+  * I - Isolation
+  * D - Durability
+* "All or nothing"
+* Tends to be better at scaling "vertically"
+* Harder to scale "horizontally", because you may compromise ACID-qualities, or just be slower
+* Need to know what your data looks like ahead of time. Adding/removing columns from a table can be a lot of work.
 
 ## Q: Explain the way `this` works in JavaScript
 
 ## Q: Explain the concept of closures in JavaScript
+
+A closure is created when a function is returned outside of the scope in which it was declared.
 
 ## Q: What is Node, and what are its advantages?
 

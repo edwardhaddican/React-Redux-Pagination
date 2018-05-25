@@ -437,6 +437,7 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Technical Interview Q/A](https://youtu.be/YFdZTeUqTuk)
 - [Review: Technical Interview Exercise](https://youtu.be/PhlvznblOw0)
 - [Architecture Interview Questions](https://youtu.be/XRLLu79agFY)
+- [JS Ecosystems](https://youtu.be/nVHgSBlN7vc)
 
 ### Career Success
 - [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)

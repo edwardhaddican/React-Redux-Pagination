@@ -7,7 +7,7 @@
   * Koa is kind of like a stack of middleware
 
 * SQL (relational databases), "NoSQL" ("document" databases, "graph" databases)
-  * SQL
+  * SQL/relational data
     * Data is stored in relational tables
     * Primary/foreign key relations
     * Use SQL as our means of querying
@@ -18,6 +18,8 @@
       * D - Durability
     * "All or nothing"
     * Tends to be better at scaling "vertically"
+    * Harder to scale "horizontally", because you may compromise ACID-qualities, or just be slower
+    * Need to know what your data looks like ahead of time. Adding/removing columns from a table can be a lot of work.
 
   * NoSQL
     * Data is stored in JSON-formatted "documents"
