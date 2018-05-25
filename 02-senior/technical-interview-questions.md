@@ -209,9 +209,20 @@ A linked list is a set of cells that are physically dispersed throughout memory.
 
 ## Q: Explain the way `this` works in JavaScript
 
+`this` is a keyword that refers to the execution context of a function. It is mostly determined dynamically when the function is is executed. In order of precedence, here are the ways `this` could be determined:
+
+- Arrow functions retain the `this` value of their enclosing lexical context (i.e. the scope in which they're defined).
+- Using the `new` keyword will cause `this` to refer to a newly allocated object
+- Using `bind` will create a function whose `this` will be set to the object passed in as the first parameter to `bind`
+- Using `call` or `apply` will invoke a function with an explicitly set object (passed in as the first parameter to `call` or `apply`)
+- Accessing a function as a property on an object and invoking it will implicitly cause `this` to refer to the object
+- By default, `this` will refer to the global context (in Node, `global`; in the browser, `window`). In strict mode, `this` will be undefined
+
 ## Q: Explain the concept of closures in JavaScript
 
-A closure is created when a function is returned outside of the scope in which it was declared.
+A closure is the combination of a function and the lexical environment within which that function was declared. A closure is created when a function is returned outside of the scope in which it was declared. This allows a function to "remember" the value of variables from their original environment.
+
+This is very useful writing a "factory" functions (functions that create other functions based on some configuration), as well as modules that keep some data/operations private while revealing only a subset of operations (sometimes referred to as the "revealing module pattern"). However, you should be careful to avoid making closures needlessly - otherwise, you risk wasting memory.
 
 ## Q: What is Node, and what are its advantages?
 
