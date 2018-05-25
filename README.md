@@ -21,6 +21,8 @@
 - [You Don't Know JS (free book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 - [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
+- [Front End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ### Node
 - [Art of Node](https://github.com/maxogden/art-of-node)
@@ -31,6 +33,7 @@
 ### Scalability/Devops/Architecture
 - [How to scale a Node.js app based on number of users](http://adrianmejia.com/blog/2016/03/23/how-to-scale-a-nodejs-app-based-on-number-of-users/)
 - [Scaling Node.js Applications](https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc)
+- [Architecture Resources](https://gist.github.com/hiend/39fe217ffd759b8fb58a7bc55b8daccb)
 
 ### Algorithms/Data Structures/Comp Sci
 - [Algo Expert](https://www.algoexpert.io/questions)
@@ -38,6 +41,7 @@
 - [Algorithms ("Tutorial Horizon")](https://algorithms.tutorialhorizon.com/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling)
+- [JavaScript Algorithms and DS](https://github.com/trekhleb/javascript-algorithms)
 
 ## Starting Points
 
@@ -430,6 +434,10 @@ Unfortunately we had some audio problems with today's lectures. I'll re-record t
 - [Optimizations - REACTO lecture](https://youtu.be/rLVdmS6-f60)
 - [Numbers](https://youtu.be/dT__YmVJAE8)
 - [Functional Programming - REACTO lecture](https://youtu.be/i2KRRbuTXRo)
+- [Technical Interview Q/A](https://youtu.be/YFdZTeUqTuk)
+- [Review: Technical Interview Exercise](https://youtu.be/PhlvznblOw0)
+- [Architecture Interview Questions](https://youtu.be/XRLLu79agFY)
+- [JS Ecosystems](https://youtu.be/nVHgSBlN7vc)
 
 ### Career Success
 - [Pieter DePree from Stack Overflow on Using Github and Stack Overflow Profiles for your Job Search](https://www.youtube.com/watch?v=Sq1PY5BxrPk)
