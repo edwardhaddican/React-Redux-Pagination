@@ -114,9 +114,69 @@ In a Blocking language, single theaded language, a similar example as above (usi
 
 ## Q: How does Redux work? What methods are available on a Redux store, and what do they do?
 
+Redux is a data store that behaves like a simple event emitter. The store contains an object representing the state of the app. Actions are dispatched to the store, which are then sent through any registered middleware, and then to the reducer. The reducer is a pure function that calculates the new state object. The store then replaces the old state with the new state, and invokes any callbacks that have been registered with it.
+
+The three most important public methods on the store are: `getState`, `dispatch`, and `subscribe`.
+
+`getState` returns the current state object from the store.
+`dispatch` sends an action to the store's middleware pipeline, and eventually to the reducer
+`subscribe` takes a callback function that will fire whenever the state inside the store is updated.
+
 ## Q: Explain the difference between `call`, `apply`, and `bind`
 
+`call`: invokes a function. The first argument provides the execution context, and subsequent arguments supply arguments to the function.
+
+```js
+function add (x, y) {
+  return x + y
+}
+
+function subtract () {
+  return this.x - this.y
+}
+
+add.call(null, 2, 3) // 5
+subtract.call({x: 6, y: 3}) // 3
+```
+
+`apply`: invokes a function. The first argument provides the execution context, and the second argument is an array of arguments to "applied" to the function (i.e. each item in the array will be unpacked into the corresponding argument of the function)
+
+```js
+function add (x, y) {
+  return x + y
+}
+
+function subtract () {
+  return this.x - this.y
+}
+
+add.apply(null, [2, 3]) // 5
+subtract.call({x: 6, y: 3}) // 3
+```
+
+`bind`: does not invoke the function - it returns a copy of the function with the execution context bound to the first argument to bind. Any subsequent arguments are partially applied to the copied function
+
+```js
+function add (x, y) {
+  return x + y
+}
+
+function subtract () {
+  return this.x - this.y
+}
+
+const addTwo = add.bind(null, 2)
+addTwo(3) // 5
+
+const getDiff = subtract.bind({x: 6, y: 3})
+getDiff() // 3
+```
+
 ## Q: Explain the prototype chain in JavaScript, and how you can use it to mimic "inheritance"
+
+All objects in JavaScript contain a property called `__proto__`. If you attempt to access a property on an object (ex. `obj.foo`), JavaScript will first check to see if that property exists on the object itself. If it doesn't, it will check the the `__proto__` of that object. It will continue to search for the property up the chain of `__proto__`s until either it finds it, or reaches the `__proto__` for the `Object` object, at which point `undefined` will be returned.
+
+It can be used to mimic "inheritance" because shared behavior for "instances" of a "class" can be placed on an object that will exist up the `__proto__` chain for those object "instances". This pattern can be implemented by using the `new` keyword in conjuction with an ES6 `class`, or by directly attaching those methods to the `.prototype` of the constructor function.
 
 ## Q: Explain some common lifecycle methods in React, and how you would use them
 
@@ -152,6 +212,8 @@ In a Blocking language, single theaded language, a similar example as above (usi
   - Keeping track of features (babel, webpack, javascript fatigue in general)
 
 ## Q: What is the difference between "pass by value" and "pass by reference" (aka "pass by copy of a reference" or "pass by sharing a reference") in JavaScript
+
+Primitive types in JavaScript (numbers, strings, booleans, null, undefined, symbols) are passed by value during assignment. This means that when you assign a variable to the value from another variable (either by using the assignment operator, or by sending the value into a function as a parameter), that variable contains a copy of the value - new memory is allocated. However, objects (which includes functions and arrays) are passed by "sharing", which means that the variable contains a copy of a reference to that memory location. This means that you can mutate the data stored at that memory location. However, if you reassign the variable itself, this does not perform a mutation on that memory location - this just points the variable at another value/shared reference.
 
 ## Q: What's the difference between == and ===
 Both are comparison operator, but the double equal one will not only compare the values but also attempt to coerce the values.The rules by which they do that are complicated and unmemorable, therefore the "triple equal" is simpler and more desirable.
